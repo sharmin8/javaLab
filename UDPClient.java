@@ -16,3 +16,5 @@ public class UDPClient {
         ds.close();
     }
 }
+javac UDPServer.java
+java UDPServer
