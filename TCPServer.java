@@ -26,3 +26,5 @@ public class TCPServer {
         }
     }
 }
+javac TCPServer.java
+java TCPServer
