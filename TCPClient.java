@@ -24,3 +24,5 @@ public class TCPClient {
         }
     }
 }
+javac TCPClient.java
+java TCPClient
